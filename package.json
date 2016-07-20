@@ -11,5 +11,8 @@
     "url": "git@git.aconex.com:workday-patterns.git"
   },
   "author": "'aconex-agile-academy'",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
