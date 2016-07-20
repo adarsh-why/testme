@@ -2,7 +2,8 @@ module.exports = function(grunt){
 	grunt.initConfig({
 		karma : {
 			unit : {
-				    singleRun: true
+				configFile: 'karma.conf.js',
+				singleRun: true
 			}
 		}
 	});
