@@ -1,0 +1,15 @@
+{
+  "name": "workday-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.aconex.com:workday-patterns.git"
+  },
+  "author": "'aconex-agile-academy'",
+  "license": "ISC"
+}
