@@ -1,1 +1,7 @@
-console.log('hello from spec');
+describe('setting up jasmine', function(){
+
+	it('just works', function(){
+		expect(true).toBe(true);
+	});
+
+});
